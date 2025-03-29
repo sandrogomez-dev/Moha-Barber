@@ -4,7 +4,7 @@
 
 A modern, elegant website for a premium men's barber shop, featuring online booking, service displays, and gallery. Designed to showcase both barber services and frontend development skills.
 
-## 🚀 Features
+##  Features
 
 - **Responsive Design**: Works on all devices (mobile, tablet, desktop)
 - **Interactive Elements**:
