@@ -1,6 +1,6 @@
 # MOHA BARBER - Premium Barber Shop Website
 
-[MOHA BARBER Preview](https://sandrodevx.github.io/Moha-Barber/)
+[MOHA BARBER Preview](https://sandrogomez-dev.github.io/Moha-Barber/)
 
 A modern, elegant website for a premium men's barber shop, featuring online booking, service displays, and gallery. Designed to showcase both barber services and frontend development skills.
 
